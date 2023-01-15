@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d431afb2-59ae-4254-b0a6-6c04d35340e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/.idea/task0_handout_5slq29.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/checker_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/pytransform/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/pytransform/_pytransform.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/results_check.byte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/runner.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task0_handout_5slq29/solution.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/.idea/task1_handout_d3d63876.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/checker_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/euler-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/pytransform/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/pytransform/_pytransform.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/results_check.byte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/runner.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/test_x.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/test_y.byte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/train_x.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1_handout_d3d63876/train_y.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2INJCaeM5JmczYZDLnfX4Y3hzzy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CV/CV_22Fall/Lab6" />
+  </component>
+  <component name="RunManager" selected="Python.solution">
+    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="task4_handout" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="docker://&lt;none&gt;:&lt;none&gt;/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="DockerContainerSettingsRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="runCliOptions" value="--entrypoint= --rm" />
+        <option name="version" value="2" />
+        <option name="volumeBindings">
+          <list>
+            <DockerVolumeBindingImpl>
+              <option name="containerPath" value="/opt/project" />
+              <option name="editable" value="true" />
+              <option name="hostPath" value="$PROJECT_DIR$" />
+              <option name="readOnly" value="false" />
+            </DockerVolumeBindingImpl>
+          </list>
+        </option>
+      </EXTENSION>
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="docker-deploy" factoryName="dockerfile" server-name="Docker2">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="containerName" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Unnamed" />
+      <item itemvalue="Python.solution" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d431afb2-59ae-4254-b0a6-6c04d35340e2" name="Changes" comment="" />
+      <created>1670015981345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670015981345</updated>
+      <workItem from="1670015982569" duration="4792000" />
+      <workItem from="1670023507598" duration="18000" />
+      <workItem from="1670181398757" duration="16447000" />
+      <workItem from="1670479695448" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../../WeChat Files/wxid_jnfymw5qfyb211/FileStorage/File/2022-12/solution.py</url>
+          <line>456</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solution.py</url>
+          <line>504</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/task4_handout$solution.coverage" NAME="solution Coverage Results" MODIFIED="1670196165716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
