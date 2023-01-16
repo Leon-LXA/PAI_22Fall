@@ -1,2 +1,2 @@
 # PAI_22Fall
-PAI projects during 22Fall semester at ETH Zurich
+Probabilistic AI projects during 22Fall semester at ETH Zurich
